@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17132" started-at="2018-07-13T23:19:26Z" finished-at="2018-07-13T23:19:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17132" started-at="2018-07-13T23:19:26Z" finished-at="2018-07-13T23:19:43Z">
+      <class name="crossBrowsertesting.MultipleTestAnnotations">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:crossBrowsertesting.MultipleTestAnnotations@675d3402]" name="openBrowser" is-config="true" duration-ms="16804" started-at="2018-07-13T19:19:26Z" finished-at="2018-07-13T19:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="testTitle()[pri:0, instance:crossBrowsertesting.MultipleTestAnnotations@675d3402]" name="testTitle" duration-ms="58" started-at="2018-07-13T19:19:43Z" finished-at="2018-07-13T19:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+        <test-method status="PASS" signature="verifyText2()[pri:1, instance:crossBrowsertesting.MultipleTestAnnotations@675d3402]" name="verifyText2" duration-ms="143" started-at="2018-07-13T19:19:43Z" finished-at="2018-07-13T19:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText2 -->
+        <test-method status="PASS" signature="verifyText1()[pri:2, instance:crossBrowsertesting.MultipleTestAnnotations@675d3402]" name="verifyText1" duration-ms="64" started-at="2018-07-13T19:19:43Z" finished-at="2018-07-13T19:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:crossBrowsertesting.MultipleTestAnnotations@675d3402]" name="closeBrowser" is-config="true" duration-ms="41" started-at="2018-07-13T19:19:43Z" finished-at="2018-07-13T19:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- crossBrowsertesting.MultipleTestAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
